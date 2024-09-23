@@ -2,9 +2,9 @@
 
 public record CarDetailDto(
     int Id, 
-    int ColorName, 
-    int FuelName, 
-    int TransmissionName, 
+    string ColorName, 
+    string FuelName, 
+    string TransmissionName, 
     string CarState,
     int? KiloMeter,
     short? ModelYear, 
