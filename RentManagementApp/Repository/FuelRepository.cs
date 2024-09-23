@@ -1,6 +1,8 @@
-﻿namespace RentManagementApp.Repository;
+﻿using RentManagementApp.Entity;
 
-public class FuelRepository
+namespace RentManagementApp.Repository;
+
+public class FuelRepository:BaseRepository<Fuel>
 {
     
 }
