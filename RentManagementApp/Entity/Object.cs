@@ -3,6 +3,11 @@
 public class Object
 {
     private int _id;
+
+    public Object()
+    {
+        
+    }
     public int Id
     {
         set

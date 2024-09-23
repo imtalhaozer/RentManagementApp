@@ -1,3 +1,5 @@
-﻿namespace RentManagementApp.Entity;
+﻿using RentManagementApp.Repository;
 
-public sealed class Fuel:Object;
+namespace RentManagementApp.Entity;
+
+public sealed class Fuel:Object,CommonInterface;

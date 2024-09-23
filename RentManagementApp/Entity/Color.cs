@@ -1,3 +1,5 @@
-﻿namespace RentManagementApp.Entity;
+﻿using RentManagementApp.Repository;
 
-public sealed class Color:Object;
+namespace RentManagementApp.Entity;
+
+public sealed class Color:Object,CommonInterface;

@@ -1,3 +1,5 @@
-﻿namespace RentManagementApp.Entity;
+﻿using RentManagementApp.Repository;
 
-public sealed class Transmission:Object;
+namespace RentManagementApp.Entity;
+
+public sealed class Transmission:Object,CommonInterface;
