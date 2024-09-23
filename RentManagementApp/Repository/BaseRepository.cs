@@ -36,10 +36,9 @@ public class BaseRepository<T> where T:CommonInterface
         return ListedObjects = objects.Values.ToList();
     }
     
-    public T? Delete(int id)
+    public void Delete(int id)
     {
         T? deleteObject = GetById(id);
         ListedObjects.Remove(deleteObject);
-        return deleteObject;
     }
 }

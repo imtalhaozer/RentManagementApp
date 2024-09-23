@@ -1,6 +1,8 @@
-﻿namespace RentManagementApp.Repository;
+﻿using RentManagementApp.Entity;
 
-public class TransmissionRepository
+namespace RentManagementApp.Repository;
+
+public class TransmissionRepository:BaseRepository<Transmission>
 {
     
 }
