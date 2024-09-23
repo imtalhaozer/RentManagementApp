@@ -1,0 +1,15 @@
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\bin\Debug\net8.0\RentManagementApp.exe
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\bin\Debug\net8.0\RentManagementApp.deps.json
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\bin\Debug\net8.0\RentManagementApp.runtimeconfig.json
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\bin\Debug\net8.0\RentManagementApp.dll
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\bin\Debug\net8.0\RentManagementApp.pdb
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.AssemblyInfoInputs.cache
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.AssemblyInfo.cs
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.sourcelink.json
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.dll
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\refint\RentManagementApp.dll
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.pdb
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\RentManagementApp.genruntimeconfig.cache
+C:\Users\talha\RiderProjects\RentManagementApp\RentManagementApp\obj\Debug\net8.0\ref\RentManagementApp.dll
